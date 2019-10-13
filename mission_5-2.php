@@ -1,7 +1,4 @@
 <?php
-  /*//ファイル名を変数に読み込む
-  $filename="mission_3-5.txt"; */
-
   //データベースへの接続　phpとMysqlの連携
   $dsn = 'mysql:dbname=データベース名;host=localhost;charset=utf8';//$dsnの式の中にスペースを入れないこと！ tb210378db : データベース名　localhost : MySQLホスト名
   $user = 'ユーザー名';
